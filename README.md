@@ -1,1 +1,1 @@
-# calories-burnt-prediction
+# calories burnt prediction
